@@ -3,16 +3,19 @@
 </div>  
   
 
-## <div align="center">Hola! Soy Joaquin</div>  
+## <div align="center">Hola! Bienvenido a mi github! Soy Joaquin</div>  
   
 
 #### **<div align="center">Full Stack Web Developer</div>**  
   
 
 - ##### Soy Full Stack Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos. Siempre buscando crecer profesionalmente!  
+
+
+- ##### Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar soluciones a los problemas de la vida en codigo y estoy realizando varios proyectos para seguir aprendiendo.
   
 
-- ##### Contactarme en: joacojachow@hotmail.com / +54 9 3515129921  
+- ##### No dudes en contactarme! juntos podemos seguir progresando! mail: joacojachow@hotmail.com / +54 9 3515129921  
   
 
 <br/>  
