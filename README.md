@@ -78,7 +78,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinjachow&hide_border=true&layout=compact" align="center" /></div>   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?joaquinjachow=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br/>  
 
