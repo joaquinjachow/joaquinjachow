@@ -12,7 +12,7 @@
 - ##### Soy Full Stack Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos. Siempre buscando crecer profesionalmente!  
   
 
-- ##### Contactarme en: joacojachow@hotmail.com / 3515129921  
+- ##### Contactarme en: joacojachow@hotmail.com / +54 9 3515129921  
   
 
 <br/>  
