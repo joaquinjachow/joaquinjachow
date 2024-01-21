@@ -9,13 +9,13 @@
 ### <div align="center">Front-end Developer</div>  
   
 
-- ###### Soy Front-end developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos. Siempre buscando crecer profesionalmente!  
+- ##### Soy Front-end developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos. Siempre buscando crecer profesionalmente!  
   
 
-- ###### Actualmente trabajo en WeBookYou donde ya tengo 1 año de experiencia y en mis tiempos libres me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar soluciones a los problemas de la vida en codigo y estoy realizando varios proyectos para seguir aprendiendo.  
+- ##### Actualmente trabajo en WeBookYou donde ya tengo 1 año de experiencia y en mis tiempos libres me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar soluciones a los problemas de la vida en codigo y estoy realizando varios proyectos para seguir aprendiendo.  
   
 
-- ###### 🇦🇷 Argentina. No dudes en contactarme! juntos podemos seguir progresando! mail: joacojachow@hotmail.com / +54 9 3515129921  
+- ##### 🇦🇷 Argentina. No dudes en contactarme! juntos podemos seguir progresando! mail: joacojachow@hotmail.com / +54 9 3515129921  
   
 
 <br/>  
