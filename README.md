@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D4D16AQGeZHE6NjlheA/profile-displaybackgroundimage-shrink_350_1400/0/1664853811154?e=1711584000&v=beta&t=n4Jplhbd2traJUcCF_XLdNg9vtUSW-GSRYynfmQzOnI" align="center" style="width: 100%" />
 </div>  
   
 
 ## <div align="center">Hola! Bienvenido a mi github! Soy Joaquin</div>  
   
 
-#### **<div align="center">Full Stack Web Developer</div>**  
+### <div align="center">Front-end Developer</div>  
   
 
-- ##### Soy Full Stack Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos. Siempre buscando crecer profesionalmente!  
-
-
-- ##### Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar soluciones a los problemas de la vida en codigo y estoy realizando varios proyectos para seguir aprendiendo.
+- ###### Soy Front-end developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos. Siempre buscando crecer profesionalmente!  
   
 
-- ##### No dudes en contactarme! juntos podemos seguir progresando! mail: joacojachow@hotmail.com / +54 9 3515129921  
+- ###### Actualmente trabajo en WeBookYou donde ya tengo 1 año de experiencia y en mis tiempos libres me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar soluciones a los problemas de la vida en codigo y estoy realizando varios proyectos para seguir aprendiendo.  
+  
+
+- ###### 🇦🇷 Argentina. No dudes en contactarme! juntos podemos seguir progresando! mail: joacojachow@hotmail.com / +54 9 3515129921  
   
 
 <br/>  
@@ -28,15 +28,15 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -45,23 +45,26 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
 
-</table>  
+
+
+</td></tr></table>  
 
 <br/>  
 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/joaquinjachow" target="_blank">
+<a href="https://github.com/joaquinjachow" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/joaquin-jachow-725a8924b/" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joaquin-jachow/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -71,4 +74,23 @@
 
 
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinjachow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinjachow&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
