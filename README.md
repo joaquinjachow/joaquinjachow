@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D16AQGeZHE6NjlheA/profile-displaybackgroundimage-shrink_350_1400/0/1664853811154?e=1711584000&v=beta&t=n4Jplhbd2traJUcCF_XLdNg9vtUSW-GSRYynfmQzOnI" align="center" style="width: 100%" />
+<img src="https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg" align="center" style="width: 70%" />
 </div>  
   
 
