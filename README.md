@@ -12,7 +12,7 @@
 - #### Soy Front-end developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos. Siempre buscando crecer profesionalmente!  
   
 
-- #### Actualmente estudio analista en sistemas y desarrollo de software en la IES de Córdoba, Argentina y, tengo más de un año de experiencia laboral. En mis tiempos libres me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar soluciones a los problemas de la vida en codigo y estoy realizando varios proyectos para seguir aprendiendo.  
+- #### Actualmente estudio analisis en sistemas y desarrollo de software en la IES de Córdoba, Argentina y, tengo más de un año de experiencia laboral. En mis tiempos libres me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar soluciones a los problemas de la vida en codigo y estoy realizando varios proyectos para seguir aprendiendo.  
   
 
 - #### 🇦🇷 Argentina. No dudes en contactarme! juntos podemos seguir progresando! mail: joacojachow@hotmail.com / +54 9 3515129921  
@@ -36,9 +36,9 @@
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://zustand.surge.sh/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" height="50" /></a>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
 <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVy09E2iLC3UGla0LyIXLU8sBbbWfi1Vurw&usqp=CAU" alt="C#" height="50" /></a>
 </div>
 
